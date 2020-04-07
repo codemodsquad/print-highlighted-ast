@@ -35,10 +35,7 @@ console.log(printHighlightedAst(code, { highlights })
 
 ## Output
 
-<code>
-const foo = () => <span style="background-color: blue;">2</span><br />
-const bar = <span style="background-color: blue;">500</span> + <span style="background-color: blue;">600</span>
-<code>
+![Example output](/img/example.png)
 
 # API
 
